@@ -24,8 +24,8 @@ db.users.insertMany([
     },
      {
         userid:4,
-        name:"luci",
-        email:"luci@gmail.com",
+        name:"Arjun",
+        email:"arjun@gmail.com",
         mentorid:1
     },
      {
@@ -213,28 +213,28 @@ use students;
 db.mentors.insertMany([
     {
         mentorid:1,
-        mentorname:"vijay",
-        mentor_email:"vijay@gmail.com"
+        mentorname:"siva",
+        mentor_email:"siva@gmail.com"
     },
       {
         mentorid:2,
-        mentorname:"ganesh",
-        mentor_email:"ganesh@gmail.com"
+        mentorname:"Antony",
+        mentor_email:"antony@gmail.com"
     },
       {
         mentorid:3,
-        mentorname:"alex",
-        mentor_email:"alex@gmail.com"
+        mentorname:"Bella",
+        mentor_email:"bella@gmail.com"
     },
       {
         mentorid:4,
-        mentorname:"lavish",
-        mentor_email:"lavish@gmail.com"
+        mentorname:"Mugesh",
+        mentor_email:"mugesh@gmail.com"
     },
       {
         mentorid:5,
-        mentorname:"kanmani",
-        mentor_email:"kanmani@gmail.com"
+        mentorname:"Karthi",
+        mentor_email:"karthi@gmail.com"
     }
     ])
     
