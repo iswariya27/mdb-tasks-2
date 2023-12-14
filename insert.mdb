@@ -6,20 +6,20 @@ use students;
 db.users.insertMany([
     {
         userid:1,
-        name:"sathishsk",
-        email:"sathishsk@gmail.com",
+        name:"Rajeshkumar",
+        email:"rajeshkumar@gmail.com",
         mentorid:1
     },
      {
         userid:2,
-        name:"anik",
-        email:"anik@gmail.com",
+        name:"Rajeshwari",
+        email:"rajeshwari@gmail.com",
         mentorid:2
     },
      {
         userid:3,
-        name:"sathish",
-        email:"sathish@gmail.com",
+        name:"Ratha",
+        email:"rathaak@gmail.com",
         mentorid:3
     },
      {
@@ -30,8 +30,8 @@ db.users.insertMany([
     },
      {
         userid:5,
-        name:"ragini",
-        email:"ragini@gmail.com",
+        name:"Arun",
+        email:"arun@gmail.com",
         mentorid:2
     }
     
